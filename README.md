@@ -10,3 +10,6 @@
 
 #luffy
 #one pice
+
+#zoro
+#luffy
